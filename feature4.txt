@@ -1,5 +1,5 @@
 when(hi){
 
-stop();
+waveBack();
 
 }
