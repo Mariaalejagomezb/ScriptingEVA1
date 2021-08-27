@@ -22,4 +22,6 @@ legs{
 bones();
 toes();
 }
+leg3{
+skin();
 }
