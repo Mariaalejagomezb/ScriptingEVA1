@@ -10,7 +10,7 @@ chest{
 heart();
 ribs();
 liver();
-estomage();
+stomach();
 lungs();
 blood();
 }
