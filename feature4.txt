@@ -1,3 +1,5 @@
 when(hi){
 
-dance();}
+waveBack();
+
+}
