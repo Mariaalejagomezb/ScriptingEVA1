@@ -4,7 +4,7 @@ brain();
 eyes();
 nose();
 mouth();
-blood();
+ears();
 }
 chest{
 heart();
@@ -12,14 +12,14 @@ ribs();
 liver();
 stomach();
 lungs();
-blood();
+
 }
 arms{
 bones();
-blood();
+fingers();
 }
 legs{
 bones();
-blood();
+toes();
 }
 }
