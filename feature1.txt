@@ -3,3 +3,7 @@ m1()
 {
 hola amigos
 }
+m2()
+{
+no se hagan youtubers
+}
